@@ -4,9 +4,13 @@ With the following "FINAL ALL countries ISO.csv" that represent the selected cou
 
 You shall need to: 
 
-  0. Use Google Colab and the "Final_cleaning_data.csv" must be uploaded and visible.
-  1. Upload the previous mentioned "*.csv"
+  0. Use Google Colab or Jupyter Lab and the "Final_cleaning_data.ipynb" must be uploaded and visible on the current workspace.
+  1. Upload the previous mentioned "*.csv" on the current workspace.
   2. Run the import cell and all the group of functions
   3. Run the code group
 
-You will get a "All Trade Links (year).csv" for every year across 2001 to 2019 which contain the cleaned bilater exchanges between countries
+You will get a "All Trade Links (year).csv" for every year across 2001 to 2019 which contain the cleaned bilater exchanges between countries.
+
+Note: 
+  Using Google Collab will take longer in uploading into its workspace the trade data.
+  Althought file path should work for every current directory, Jupyter Lab may use a different format for file paths that you ought to change if that error arises. That is, changing to the correct path for read_csv functions. 
