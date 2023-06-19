@@ -2,7 +2,7 @@ Inside the large "trade_data_full.rar", you will find the large "trade_data_full
 
 With the following "FINAL ALL countries ISO.csv" that represent the selected countries with its ISO code and the "ISO codes.csv" that contain the formal aspects ob both ISO and ISO-alpha3 codes for all countries, 
 
-you need to: 
+You shall need to: 
 
   0. Use Google Colab and the "Final_cleaning_data.csv" must be uploaded and visible.
   1. Upload the previous mentioned "*.csv"
