@@ -1,1 +1,12 @@
-Inside the large "trade_data_full.rar", you will find the large .csv with the original trade data that will be cleaned. 
+Inside the large "trade_data_full.rar", you will find the large "trade_data_full.csv" with the original trade data that will be cleaned.
+
+With the following "FINAL ALL countries ISO.csv" that represent the selected countries with its ISO code and the "ISO codes.csv" that contain the formal aspects ob both ISO and ISO-alpha3 codes for all countries, 
+
+you need to: 
+
+  0. Use Google Colab and the "Final_cleaning_data.csv" must be uploaded and visible.
+  1. Upload the previous mentioned "*.csv"
+  2. Run the import cell and all the group of functions
+  3. Run the code group
+
+You will get a "All Trade Links (year).csv" for every year across 2001 to 2019 which contain the cleaned bilater exchanges between countries
